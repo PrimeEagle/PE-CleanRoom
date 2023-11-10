@@ -1,0 +1,9 @@
+rotate/flip bp containing pe-cleanroom
+blueprint containing multiple pe-cleanroom
+change icons
+make sure events check only for pe-cleanroom or applicable entity
+clean up code
+existing items off map after resizing clean room
+place input/output arrow icons on input/output poles
+remove smoke effect when creating entities inside ic-combinator
+new teleport sound

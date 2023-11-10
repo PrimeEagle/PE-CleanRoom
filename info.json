@@ -1,0 +1,10 @@
+{
+	"name": "PE-CleanRoom",
+	"version": "1.0.0",
+	"title": "PE Clean Room",
+	"author": "PrimeEagle",
+	"dependencies": ["base >= 1.1"],
+	"description": "A surface where you can design a circuit network which is represented by a single item in the main map. Basically Factorissimo with circuits.",
+	"factorio_version": "1.1",
+	"homepage":"https://github.com/PrimeEagle/CleanRoom"
+}
